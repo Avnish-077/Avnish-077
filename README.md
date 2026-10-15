@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0891b2,100:2563eb&height=260&section=header&text=Avnish%20Sharma&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Software%20Developer&descSize=24&descColor=f1f5f9&descAlign=50&descAlignY=60" width="100%" alt="Avnish Sharma - Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0891b2,100:2563eb&height=260&section=header&text=Avnish%20Sharma&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Software%20Developer&descSize=24&descColor=f1f5f9&descAlign=50&descAlignY=60" width="100%" alt="Avnish Sharma - DevOps Engineer" />
 
 <a href="https://github.com/Avnish-077">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&height=40&lines=Building+practical+software+that+works;Clean+code.+Real+projects.+Continuous+learning.;Open+to+internships+and+collaboration" alt="Typing intro" />
@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
       <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077/REPO-NAME-1"><b>View Repository</b></a>
+      <a href="https://github.com/Avnish-077/tracex"><b>View Repository</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>PROJECT NAME 2</h3>
@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
       <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077/REPO-NAME-2"><b>View Repository</b></a>
+      <a href="https://github.com/Avnish-077/cybersecurity-digital-trust"><b>View Repository</b></a>
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@
       <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
       <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077/REPO-NAME-3"><b>View Repository</b></a>
+      <a href="https://github.com/Avnish-077/Avnish-077"><b>View Repository</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>PROJECT NAME 4</h3>
@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
       <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077/REPO-NAME-4"><b>View Repository</b></a>
+      <a href="https://github.com/Avnish-077/Eco-Campus"><b>View Repository</b></a>
     </td>
   </tr>
 </table>
