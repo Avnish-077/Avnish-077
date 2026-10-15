@@ -1,164 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F5A0,100:00B4DB&height=250&text=AVNISH%20SHARMA&fontSize=58&fontColor=0b0f19&fontAlign=50&fontAlignY=42&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=20&descColor=0b0f19&descAlignY=64" width="100%" alt="Avnish Sharma" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0891b2,100:2563eb&height=260&section=header&text=Avnish%20Sharma&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Software%20Developer&descSize=24&descColor=f1f5f9&descAlign=50&descAlignY=60" width="100%" alt="Avnish Sharma - Software Developer" />
 
 <a href="https://github.com/Avnish-077">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5A0&center=true&vCenter=true&width=640&lines=%3E+Hello+World%2C+I'm+Avnish+%F0%9F%91%8B;%3E+I+turn+ideas+into+working+code;%3E+Learning+by+building%2C+one+project+at+a+time;%3E+Open+to+internships+%26+collaboration" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&height=40&lines=Building+practical+software+that+works;Clean+code.+Real+projects.+Continuous+learning.;Open+to+internships+and+collaboration" alt="Typing intro" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Avnish-077">
-  <img src="https://komarev.com/ghpvc/?username=Avnish-077&label=PROFILE%20VIEWS&color=00B4DB&style=for-the-badge&labelColor=0b0f19" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Avnish-077&label=PROFILE%20VIEWS&color=00b4db&style=for-the-badge&labelColor=0f172a" alt="Profile views" />
 </a>
 <a href="https://github.com/Avnish-077?tab=followers">
-  <img src="https://img.shields.io/github/followers/Avnish-077?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F5A0&labelColor=0b0f19&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Avnish-077?style=for-the-badge&logo=github&label=FOLLOWERS&color=00f5a0&labelColor=0f172a&logoColor=white" alt="Followers" />
 </a>
-<a href="https://github.com/Avnish-077?tab=repositories">
-  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-VIEW-00B4DB?style=for-the-badge&logo=github&labelColor=0b0f19&logoColor=white" alt="Repositories" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open to opportunities" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/avnish-sharma-s0707">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/Avnish-077">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-0b0f19?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub profile" />
+<a href="https://github.com/Avnish-077?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=00f5a0" alt="Repositories" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00B4DB&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b4db&height=3" width="100%" alt="" />
 
-<h2 align="center">⚡ WHO AM I</h2>
+<h2 align="center">ABOUT</h2>
 
-<div align="center">
+<p align="center">
+  I'm a developer who enjoys turning ideas into working software.<br/>
+  I focus on writing clean, maintainable code and building projects that solve real problems.<br/>
+  I'm always learning new technologies and looking for opportunities to grow and collaborate.
+</p>
 
-```text
-┌──────────────────────────────────────────────────────┐
-│  NAME      →  Avnish Sharma                          │
-│  ROLE      →  Developer / Student                    │
-│  FOCUS     →  Building real projects & clean code    │
-│  MINDSET   →  Build. Break. Fix. Improve.            │
-│  STATUS    →  🟢 Open to opportunities               │
-└──────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b4db&height=3" width="100%" alt="" />
 
-</div>
+<h2 align="center">TECHNICAL SKILLS</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00B4DB&height=3" width="100%" alt="" />
-
-<h2 align="center">🧰 TECH ARSENAL</h2>
-
-<div align="center">
-
-<sub><b>LANGUAGES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=py,js,java,c,cpp&theme=dark" alt="Languages" /><br/><br/>
-
-<sub><b>WEB & BACKEND</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask&theme=dark" alt="Web and backend" /><br/><br/>
-
-<sub><b>DATABASE & CLOUD</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,linux&theme=dark" alt="Database and cloud" /><br/><br/>
-
-<sub><b>TOOLS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
-
-</div>
+<table width="100%">
+  <tr>
+    <th width="25%" align="center">Languages</th>
+    <th width="25%" align="center">Web & Backend</th>
+    <th width="25%" align="center">Database & Cloud</th>
+    <th width="25%" align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,js,java,c,cpp&theme=dark" alt="Languages" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask&theme=dark" alt="Web and backend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,linux&theme=dark" alt="Database and cloud" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00B4DB&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b4db&height=3" width="100%" alt="" />
 
-<h2 align="center">🚀 PROJECTS</h2>
+<h2 align="center">PROJECTS</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 PROJECT 1 NAME</h3>
-      <p>One line about what this project does.</p>
-      <img src="https://img.shields.io/badge/Tech-1-00B4DB?style=flat-square&labelColor=0b0f19" alt="tech" />
-      <img src="https://img.shields.io/badge/Tech-2-00F5A0?style=flat-square&labelColor=0b0f19" alt="tech" />
+      <h3>PROJECT NAME 1</h3>
+      <p>Short description of what the project does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
+      <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077?tab=repositories"><b>View Code →</b></a>
+      <a href="https://github.com/Avnish-077/REPO-NAME-1"><b>View Repository</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 PROJECT 2 NAME</h3>
-      <p>One line about what this project does.</p>
-      <img src="https://img.shields.io/badge/Tech-1-00B4DB?style=flat-square&labelColor=0b0f19" alt="tech" />
-      <img src="https://img.shields.io/badge/Tech-2-00F5A0?style=flat-square&labelColor=0b0f19" alt="tech" />
+      <h3>PROJECT NAME 2</h3>
+      <p>Short description of what the project does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
+      <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077?tab=repositories"><b>View Code →</b></a>
+      <a href="https://github.com/Avnish-077/REPO-NAME-2"><b>View Repository</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 PROJECT 3 NAME</h3>
-      <p>One line about what this project does.</p>
-      <img src="https://img.shields.io/badge/Tech-1-00B4DB?style=flat-square&labelColor=0b0f19" alt="tech" />
-      <img src="https://img.shields.io/badge/Tech-2-00F5A0?style=flat-square&labelColor=0b0f19" alt="tech" />
+      <h3>PROJECT NAME 3</h3>
+      <p>Short description of what the project does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
+      <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077?tab=repositories"><b>View Code →</b></a>
+      <a href="https://github.com/Avnish-077/REPO-NAME-3"><b>View Repository</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 PROJECT 4 NAME</h3>
-      <p>One line about what this project does.</p>
-      <img src="https://img.shields.io/badge/Tech-1-00B4DB?style=flat-square&labelColor=0b0f19" alt="tech" />
-      <img src="https://img.shields.io/badge/Tech-2-00F5A0?style=flat-square&labelColor=0b0f19" alt="tech" />
+      <h3>PROJECT NAME 4</h3>
+      <p>Short description of what the project does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/TECH-1-00b4db?style=flat-square&labelColor=0f172a" alt="tech" />
+      <img src="https://img.shields.io/badge/TECH-2-00f5a0?style=flat-square&labelColor=0f172a" alt="tech" />
       <br/><br/>
-      <a href="https://github.com/Avnish-077?tab=repositories"><b>View Code →</b></a>
+      <a href="https://github.com/Avnish-077/REPO-NAME-4"><b>View Repository</b></a>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/Avnish-077?tab=repositories">
-    <img src="https://img.shields.io/badge/SEE%20ALL%20PROJECTS-→-00F5A0?style=for-the-badge&labelColor=0b0f19" alt="See all projects" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b4db&height=3" width="100%" alt="" />
+
+<h2 align="center">CONTACT</h2>
+
+<p align="center">
+  Have a project, an idea, or an opportunity in mind?<br/>
+  I'd be glad to hear from you.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avnish-sharma-s0707">
+    <img src="https://img.shields.io/badge/LINKEDIN-AVNISH%20SHARMA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/Avnish-077">
+    <img src="https://img.shields.io/badge/GITHUB-AVNISH--077-0f172a?style=for-the-badge&logo=github&logoColor=00f5a0" alt="GitHub" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00B4DB&height=3" width="100%" alt="" />
-
-<h2 align="center">🎯 ROADMAP</h2>
-
-<div align="center">
-
-| ✅ Done | 🔄 In Progress | 🎯 Next |
-|:---:|:---:|:---:|
-| Built & shipped projects | Deepening core skills | Open source contributions |
-| Learned Git & GitHub | Cloud & backend | Internship / first role |
-| Solid programming basics | Data structures & algorithms | Bigger real-world apps |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00B4DB&height=3" width="100%" alt="" />
-
-<h2 align="center">🤝 LET'S CONNECT</h2>
-
-<div align="center">
-
-<p>Got an idea, project or opportunity? Let's talk.</p>
-
-<a href="https://www.linkedin.com/in/avnish-sharma-s0707">
-  <img src="https://img.shields.io/badge/LINKEDIN-AVNISH%20SHARMA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Avnish-077">
-  <img src="https://img.shields.io/badge/GITHUB-AVNISH--077-0b0f19?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<code>Build. Break. Learn. Repeat.</code>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:00F5A0&height=110&section=footer" width="100%" alt="" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:0d9488&height=190&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="Thanks for visiting" />
